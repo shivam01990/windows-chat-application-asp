@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InstantChat">
+</Property><Property Name="Solution File" Value="G:\my study material\books pdf\PHP ebooks\PHP useful scripts for me\asp projects\windows project\Code\2008\InstantChat\InstantChat.sln">
+</Property><Property Name="Date" Value="Monday, January 14, 2013">
+</Property><Property Name="Time" Value="0:14 AM">
+</Property></Properties><Event ErrorLevel="0" Project="InstantChat" Source="InstantChat.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="InstantChat" Source="InstantChat.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="InstantChat.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="InstantChat.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InstantChat" Source="InstantChat.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

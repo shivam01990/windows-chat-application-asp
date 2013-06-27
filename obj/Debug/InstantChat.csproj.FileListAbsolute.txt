@@ -1,0 +1,35 @@
+C:\Documents and Settings\Abu\Desktop\2008\InstantChat\InstantChat\bin\Debug\InstantChat.exe
+C:\Documents and Settings\Abu\Desktop\2008\InstantChat\InstantChat\bin\Debug\InstantChat.pdb
+C:\Documents and Settings\Abu\Desktop\2008\InstantChat\InstantChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Abu\Desktop\2008\InstantChat\InstantChat\obj\Debug\InstantChat.Login.resources
+C:\Documents and Settings\Abu\Desktop\2008\InstantChat\InstantChat\obj\Debug\InstantChat.Properties.Resources.resources
+C:\Documents and Settings\Abu\Desktop\2008\InstantChat\InstantChat\obj\Debug\InstantChat.csproj.GenerateResource.Cache
+C:\Documents and Settings\Abu\Desktop\2008\InstantChat\InstantChat\obj\Debug\InstantChat.exe
+C:\Documents and Settings\Abu\Desktop\2008\InstantChat\InstantChat\obj\Debug\InstantChat.pdb
+C:\Documents and Settings\Abu\Desktop\2008\InstantChat\InstantChat\bin\Debug\OnlineContact.dll
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.exe
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.pdb
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\bin\Debug\InstantChat.exe
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\bin\Debug\InstantChat.pdb
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\bin\Debug\OnlineContact.dll
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.Login.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.Properties.Resources.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.csproj.GenerateResource.Cache
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.AddContact.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.AdminStatus.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.SelectContact.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.SendMessage.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.NetworkSetting.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.AllUsers.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.ChangePassword.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.DeleteUsers.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.NewUserInfo.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.OfflineMessages.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.RemoveContact.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.UpdateUsers.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\InstantChat\obj\Debug\InstantChat.UserStatus.resources
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\obj\Debug\InstantChat.exe
+C:\Documents and Settings\Abu\Desktop\Code\2008\InstantChat\obj\Debug\InstantChat.pdb
+G:\my study material\books pdf\PHP ebooks\PHP useful scripts for me\asp projects\windows project\Code\2008\InstantChat\obj\Debug\InstantChat.exe
+G:\my study material\books pdf\PHP ebooks\PHP useful scripts for me\asp projects\windows project\Code\2008\InstantChat\obj\Debug\InstantChat.pdb
